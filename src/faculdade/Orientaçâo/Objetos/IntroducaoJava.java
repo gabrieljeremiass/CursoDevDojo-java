@@ -21,11 +21,10 @@ public class IntroducaoJava {
 
         double conta2 = (a / b) + c;
         System.out.println("Resultado Conta2: " + conta2);
-
         double conta3 = a*b*c;
         System.out.println("Resultado Conta3: " + conta3);
 
-        double conta4 = (a-c)/(b-a);
+        double conta4 = (a-c)/(b-a);//
         System.out.println("Resultado Conta4: " + conta4);
 
         double conta5 = (a*c)-(b*a);
